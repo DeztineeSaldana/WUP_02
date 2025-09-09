@@ -66,3 +66,6 @@ The chances of getting a result like this is 0.00000003405. This means that they
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+When comparing c39 and c52, it shows that the Q3 of C39 which is 54.75 is lower than the Q1 of C52 which is 58. This was concluded from the numerical descriptive results, as well as the graphical descriptive results. We learned that when this happens, there is a big difference. This was confirmed by the t-test that shows that the chance of it being the same was very small, giving us the value 0.00000003405.  
+
